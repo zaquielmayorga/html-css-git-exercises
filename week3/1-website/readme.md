@@ -1,13 +1,5 @@
 Create a responsive webpage showcasing your cake business
 
-## Set up
-1) Fork this repository (so you have a copy of it in your own Github account)
-2) Clone the repository to your computer (so you can access it locally and can add code to it!)
---
-3) Once you've started coding (folllowing the instructions below), remember to commit and push your code frequently.
-4) When you're ready to share something (even if it's unfinished!), open a Pull Request so a teacher can review your work.
-
-
 ## Exercise
 
 ### Start with your mobile design
